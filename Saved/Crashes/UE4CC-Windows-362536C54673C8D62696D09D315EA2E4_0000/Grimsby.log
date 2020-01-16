@@ -1,0 +1,1148 @@
+﻿Log file open, 12/04/18 10:23:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Grimsby
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.954336
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.125s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.04-15.23.28:703][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.04-15.23.28:703][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.04-15.23.28:743][  0]LogHAL: Display: Platform has ~ 12 GB [12822245376 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.04-15.23.28:764][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.04-15.23.28:764][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.04-15.23.28:816][  0]LogInit: Computer: DESKTOP-6PFO0DK
+[2018.12.04-15.23.28:816][  0]LogInit: User: cgsin
+[2018.12.04-15.23.28:816][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.04-15.23.28:816][  0]LogInit: High frequency timer resolution =3.515626 MHz
+[2018.12.04-15.23.28:816][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2018.12.04-15.23.28:822][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.04-15.23.28:822][  0]LogMemory: Process Physical Memory: 99.30 MB used, 99.30 MB peak
+[2018.12.04-15.23.28:822][  0]LogMemory: Process Virtual Memory: 91.03 MB used, 91.03 MB peak
+[2018.12.04-15.23.28:822][  0]LogMemory: Physical Memory: 2862.95 MB used,  9365.30 MB free, 12228.25 MB total
+[2018.12.04-15.23.28:822][  0]LogMemory: Virtual Memory: 4640.16 MB used,  9365.30 MB free, 134217728.00 MB total
+[2018.12.04-15.23.29:324][  0]LogInit: Using OS detected language (en-US).
+[2018.12.04-15.23.29:324][  0]LogInit: Using OS detected locale (en-CA).
+[2018.12.04-15.23.29:349][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.04-15.23.29:946][  0]LogStreaming: Display: Took  0.602s to InitEngineTextLocalization.
+[2018.12.04-15.23.29:955][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.04-15.23.30:479][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.04-15.23.30:479][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.04-15.23.34:528][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.04-15.23.34:529][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.04-15.23.34:586][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.12.04-15.23.34:586][  0]LogD3D11RHI:       8079/0/6114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.04-15.23.34:587][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.04-15.23.34:587][  0]LogD3D11RHI:       0/0/6114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.04-15.23.34:587][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.04-15.23.34:591][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.04-15.23.34:592][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.04-15.23.34:602][  0]LogWindows: EnumDisplayDevices:
+[2018.12.04-15.23.34:603][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.12.04-15.23.34:610][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.12.04-15.23.34:610][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.12.04-15.23.34:610][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.12.04-15.23.34:610][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.04-15.23.34:610][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.12.04-15.23.34:611][  0]LogD3D11RHI:   Driver Version: 416.94 (internal:25.21.14.1694, unified:416.94)
+[2018.12.04-15.23.34:611][  0]LogD3D11RHI:      Driver Date: 11-12-2018
+[2018.12.04-15.23.34:611][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.12.04-15.23.34:652][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.04-15.23.34:852][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.04-15.23.34:947][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (E:/Grimsby 4.20/Grimsby 4.20/Intermediate/Shaders/WorkingDirectory/5344/).
+[2018.12.04-15.23.34:947][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cgsin/AppData/Local/Temp/UnrealShaderWorkingDir/9EAB42B04DA5BFFE3246FBABC95808D6/'.
+[2018.12.04-15.23.35:692][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.04-15.23.35:711][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.04-15.23.35:723][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.04-15.23.35:741][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.04-15.23.35:780][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.04-15.23.35:820][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.04-15.23.35:832][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.04-15.23.35:845][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.04-15.23.35:852][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.04-15.23.35:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-15.23.35:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-15.23.35:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-15.23.35:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-15.23.35:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-15.23.35:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-15.23.35:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-15.23.35:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-15.23.35:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-15.23.35:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-15.23.35:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-15.23.35:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-15.23.35:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-15.23.35:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-15.23.35:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-15.23.35:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-15.23.35:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-15.23.35:947][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-15.23.35:972][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.04-15.23.36:069][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.04-15.23.36:069][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.04-15.23.36:098][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.04-15.23.36:098][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.04-15.23.36:120][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.04-15.23.36:134][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.04-15.23.36:146][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.04-15.23.36:168][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.04-15.23.36:187][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.04-15.23.36:187][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.04-15.23.36:631][  0]LogXGEController: Cleaning working directory: C:/Users/cgsin/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.04-15.23.36:631][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.04-15.23.36:631][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.04-15.23.36:631][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.04-15.23.38:660][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.04-15.23.39:288][  0]LogDerivedDataCache: Loaded boot cache 0.63s 87MB C:/Users/cgsin/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.04-15.23.39:288][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/cgsin/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.04-15.23.39:288][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Grimsby 4.20/Grimsby 4.20/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.04-15.23.39:288][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.04-15.23.39:288][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Grimsby 4.20/Grimsby 4.20/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.04-15.23.39:288][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.04-15.23.39:357][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.04-15.23.39:369][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cgsin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.04-15.23.39:369][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.04-15.23.39:369][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.04-15.23.39:432][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.04-15.23.39:467][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.04-15.23.39:527][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.04-15.23.40:890][  0]LogAssetRegistry: FAssetRegistry took 0.0322 seconds to start up
+[2018.12.04-15.23.41:892][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.04-15.23.42:895][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.04-15.23.43:053][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.04-15.23.43:053][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.04-15.23.43:054][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.04-15.23.43:054][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.04-15.23.43:327][  0]LogNetVersion: Grimsby 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1575607482)
+[2018.12.04-15.23.47:045][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.103226 seconds
+[2018.12.04-15.23.47:075][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.04-15.23.47:075][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.12.04-15.23.47:075][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.04-15.24.05:571][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.04-15.24.05:594][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.04-15.24.06:327][  0]SourceControl: Source control is disabled
+[2018.12.04-15.24.06:327][  0]SourceControl: Source control is disabled
+[2018.12.04-15.24.06:392][  0]SourceControl: Source control is disabled
+[2018.12.04-15.24.06:404][  0]SourceControl: Source control is disabled
+[2018.12.04-15.24.07:136][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.04-15.24.07:257][  0]LogOcInput: OculusInput pre-init called
+[2018.12.04-15.24.07:673][  0]LogEngine: Initializing Engine...
+[2018.12.04-15.24.07:683][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.04-15.24.07:699][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.04-15.24.07:699][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.04-15.24.07:699][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.04-15.24.07:699][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.04-15.24.08:458][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.04-15.24.08:735][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.04-15.24.08:805][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-15.24.08:843][  0]LogInit: FAudioDevice initialized.
+[2018.12.04-15.24.08:843][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.04-15.24.08:957][  0]LogDerivedDataCache: Saved boot cache 0.11s 87MB C:/Users/cgsin/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.04-15.24.08:971][  0]LogInit: Texture streaming: Enabled
+[2018.12.04-15.24.09:062][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.04-15.24.09:241][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.04-15.24.09:413][  0]LogInit: Transaction tracking system initialized
+[2018.12.04-15.24.09:868][  0]BlueprintLog: New page: Editor Load
+[2018.12.04-15.24.11:616][  0]LocalizationService: Localization service is disabled
+[2018.12.04-15.24.14:359][  0]LogFileCache: Scanning file cache for directory 'E:/Grimsby 4.20/Grimsby 4.20/Content/' took 0.02s
+[2018.12.04-15.24.14:360][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.04-15.24.14:360][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.04-15.24.14:372][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.04-15.24.14:372][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.04-15.24.14:372][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.04-15.24.14:372][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.04-15.24.14:372][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.04-15.24.17:786][  0]SourceControl: Source control is disabled
+[2018.12.04-15.24.17:810][  0]Cmd: MAP LOAD FILE="E:/Grimsby 4.20/Grimsby 4.20/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.04-15.24.17:831][  0]LightingResults: New page: Lighting Build
+[2018.12.04-15.24.17:974][  0]MapCheck: New page: Map Check
+[2018.12.04-15.24.17:974][  0]LightingResults: New page: Lighting Build
+[2018.12.04-15.24.18:875][  0]LogBlueprint: Warning: [Compiler Protagonist_AnimationBP] Node  Result  uses potentially thread-unsafe call  Get Time Seconds . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.12.04-15.24.18:876][  0]LogBlueprint: Warning: [Compiler Protagonist_AnimationBP] [0061.73] Compile of Protagonist_AnimationBP successful, but with 1 Warning(s) [in 300 ms] (/Game/Protagonist/Animations/Protagonist_AnimationBP.Protagonist_AnimationBP)
+[2018.12.04-15.24.18:994][  0]LogBlueprint: Warning: [Compiler Werewolf_AnimationBP] Node  Result  uses potentially thread-unsafe call  Get Time Seconds . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.12.04-15.24.18:994][  0]LogBlueprint: Warning: [Compiler Werewolf_AnimationBP] [0061.85] Compile of Werewolf_AnimationBP successful, but with 1 Warning(s) [in 27 ms] (/Game/Werewolf/Animations/Werewolf_AnimationBP.Werewolf_AnimationBP)
+[2018.12.04-15.24.19:148][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:148][  0]LoadErrors: Failed to load /Engine/EngineMaterials/SpeechTextMat.SpeechTextMat Referenced by Speech_GEN_VARIABLE
+[2018.12.04-15.24.19:148][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset.
+[2018.12.04-15.24.19:148][  0]LoadErrors: Failed to load /Engine/EngineMaterials/SpeechTextMat.SpeechTextMat Referenced by Speech_GEN_VARIABLE
+[2018.12.04-15.24.19:148][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:187][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:187][  0]LoadErrors: Failed to load /Engine/EngineMaterials/SpeechTextMat.SpeechTextMat Referenced by Speech_GEN_VARIABLE
+[2018.12.04-15.24.19:188][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset.
+[2018.12.04-15.24.19:188][  0]LoadErrors: Failed to load /Engine/EngineMaterials/SpeechTextMat.SpeechTextMat Referenced by Speech_GEN_VARIABLE
+[2018.12.04-15.24.19:188][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:189][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:189][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset.
+[2018.12.04-15.24.19:189][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:189][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:189][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset.
+[2018.12.04-15.24.19:189][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:199][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:199][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset.
+[2018.12.04-15.24.19:200][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:200][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:200][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset.
+[2018.12.04-15.24.19:200][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:209][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:209][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset.
+[2018.12.04-15.24.19:209][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:209][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:209][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset.
+[2018.12.04-15.24.19:209][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:212][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:212][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Human.uasset.
+[2018.12.04-15.24.19:212][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Human : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:213][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:213][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Human.uasset.
+[2018.12.04-15.24.19:213][  0]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Human : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:384][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:384][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/NPCs/MiddleAgedMan/Man_Char.uasset.
+[2018.12.04-15.24.19:384][  0]LoadErrors: Error: /Game/NPCs/MiddleAgedMan/Man_Char : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:384][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:384][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/NPCs/MiddleAgedMan/Man_Char.uasset.
+[2018.12.04-15.24.19:385][  0]LoadErrors: Error: /Game/NPCs/MiddleAgedMan/Man_Char : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:418][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:418][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.12.04-15.24.19:418][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:418][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:418][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.12.04-15.24.19:418][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:429][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:429][  0]LoadErrors: Failed to load /Engine/EngineMaterials/SpeechTextMat.SpeechTextMat Referenced by Speech_GEN_VARIABLE
+[2018.12.04-15.24.19:430][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.12.04-15.24.19:430][  0]LoadErrors: Failed to load /Engine/EngineMaterials/SpeechTextMat.SpeechTextMat Referenced by Speech_GEN_VARIABLE
+[2018.12.04-15.24.19:430][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:502][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:502][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/NPCs/Tracy/Tracy_Char.uasset.
+[2018.12.04-15.24.19:502][  0]LoadErrors: Error: /Game/NPCs/Tracy/Tracy_Char : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:502][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:503][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/NPCs/Tracy/Tracy_Char.uasset.
+[2018.12.04-15.24.19:503][  0]LoadErrors: Error: /Game/NPCs/Tracy/Tracy_Char : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:533][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:533][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.12.04-15.24.19:533][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:533][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:533][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.12.04-15.24.19:533][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:542][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:542][  0]LoadErrors: Failed to load /Engine/EngineMaterials/SpeechTextMat.SpeechTextMat Referenced by Speech_GEN_VARIABLE
+[2018.12.04-15.24.19:542][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.12.04-15.24.19:542][  0]LoadErrors: Failed to load /Engine/EngineMaterials/SpeechTextMat.SpeechTextMat Referenced by Speech_GEN_VARIABLE
+[2018.12.04-15.24.19:542][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:605][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:605][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/NPCs/Woman/Woman_Char.uasset.
+[2018.12.04-15.24.19:605][  0]LoadErrors: Error: /Game/NPCs/Woman/Woman_Char : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:606][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:606][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/NPCs/Woman/Woman_Char.uasset.
+[2018.12.04-15.24.19:606][  0]LoadErrors: Error: /Game/NPCs/Woman/Woman_Char : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:637][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:637][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.12.04-15.24.19:638][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:638][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:638][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.12.04-15.24.19:638][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.19:647][  0]LogLinker: Warning: Can't find file '/Engine/EngineMaterials/SpeechTextMat'
+[2018.12.04-15.24.19:647][  0]LoadErrors: Failed to load /Engine/EngineMaterials/SpeechTextMat.SpeechTextMat Referenced by Speech_GEN_VARIABLE
+[2018.12.04-15.24.19:647][  0]LogLinker: Warning: Can't find file for asset '/Engine/EngineMaterials/SpeechTextMat' while loading E:/Grimsby 4.20/Grimsby 4.20/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.12.04-15.24.19:647][  0]LoadErrors: Failed to load /Engine/EngineMaterials/SpeechTextMat.SpeechTextMat Referenced by Speech_GEN_VARIABLE
+[2018.12.04-15.24.19:647][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Engine/EngineMaterials/SpeechTextMat
+[2018.12.04-15.24.32:979][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.04-15.24.36:540][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.04-15.24.36:662][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.04-15.24.36:766][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 104.074ms to complete.
+[2018.12.04-15.24.36:766][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 18.972
+[2018.12.04-15.24.37:529][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-15.24.37:535][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-15.24.37:541][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-15.24.37:547][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-15.24.37:610][  0]LogCollectionManager: Loaded 0 collections in 0.001935 seconds
+[2018.12.04-15.24.37:732][  0]LogFileCache: Scanning file cache for directory 'E:/Grimsby 4.20/Grimsby 4.20/Saved/Collections/' took 0.01s
+[2018.12.04-15.24.37:732][  0]LogFileCache: Scanning file cache for directory 'E:/Grimsby 4.20/Grimsby 4.20/Content/Developers/cgsin/Collections/' took 0.01s
+[2018.12.04-15.24.37:732][  0]LogFileCache: Scanning file cache for directory 'E:/Grimsby 4.20/Grimsby 4.20/Content/Collections/' took 0.01s
+[2018.12.04-15.24.37:732][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.04-15.24.37:753][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2572 classes and 603 folders.
+[2018.12.04-15.24.37:799][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.04-15.24.38:525][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.04-15.24.38:588][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.12.04-15.24.39:260][  0]LogSlate: Took 0.027732 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.04-15.24.39:282][  0]LogSlate: Took 0.020023 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.04-15.24.39:334][  0]LogSlate: Took 0.029124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.04-15.24.39:685][  0]LogRenderer: Reallocating scene render targets to support 1208x656 Format 10 NumSamples 1 (Frame:1).
+[2018.12.04-15.24.40:299][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.04-15.24.40:299][  0]LogLoad: (Engine Initialization) Total time: 83.15 seconds
+[2018.12.04-15.24.40:299][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.04-15.24.40:397][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.04-15.24.40:415][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-15.24.40:562][  0]LogSlate: Took 0.018223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.04-15.24.40:918][  2]LogAssetRegistry: Asset discovery search completed in 60.0510 seconds
+[2018.12.04-15.24.40:920][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.04-15.24.40:920][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2018.12.04-15.24.42:947][208]LogSlate: Window 'Message Log' being destroyed
+[2018.12.04-15.24.42:950][208]LogSlate: Window 'Message Log' being destroyed
+[2018.12.04-15.24.49:794][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-15.24.49:902][ 34]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-15.24.49:928][ 34]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.24.49:928][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-15.24.49:994][ 34]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2018, 5:24:49 AM)
+[2018.12.04-15.24.49:994][ 34]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.04-15.24.50:115][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.121856s)
+[2018.12.04-15.24.50:115][ 34]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.04-15.24.50:116][ 34]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2018.12.04-15.24.50:116][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.122904s)
+[2018.12.04-15.24.50:179][ 34]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-15.24.50:187][ 34]LogInit: FAudioDevice initialized.
+[2018.12.04-15.24.50:257][ 34]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.04-15.24.50:313][ 34]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.04-10.24.50
+[2018.12.04-15.24.50:416][ 34]LogWorld: Bringing up level for play took: 0.140943
+[2018.12.04-15.24.50:478][ 34]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.12.04-15.24.50:510][ 34]Cmd: sg.ResolutionQuality 75
+[2018.12.04-15.24.50:550][ 34]sg.ResolutionQuality = "75"
+[2018.12.04-15.24.50:550][ 34]Cmd: stat fps
+[2018.12.04-15.24.50:582][ 34]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.611
+[2018.12.04-15.24.50:582][ 34]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.24.51:406][120]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.24.51:449][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-15.24.51:485][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-15.24.51:485][120]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.24.51:516][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-15.24.51:587][121]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.12.04-15.25.48:298][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-15.26.05:544][588]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.04-15.26.05:550][588]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Human.ThirdPersonCharacter_Human
+[2018.12.04-15.26.06:416][588]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.12.04-15.26.07:933][588]LogSlate: Took 0.019583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.04-15.26.08:530][589]LogSlate: Took 0.021435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.04-15.26.11:848][823]LogRenderer: Reallocating scene render targets to support 1208x676 Format 10 NumSamples 1 (Frame:1).
+[2018.12.04-15.26.18:367][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-15.27.27:451][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-15.28.10:502][432]LogAnimation: Warning: SkeletalMesh Dumpster_Mesh has no skeleton. This needs to fixed before an animation can be set
+[2018.12.04-15.32.46:523][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-15.32.55:195][939]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-15.33.00:221][528]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2018.12.04-15.33.01:205][635]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2018.12.04-15.33.01:788][700]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor12)
+[2018.12.04-15.33.03:118][831]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2018.12.04-15.33.04:025][922]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor12)
+[2018.12.04-15.33.07:279][306]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-15.33.49:033][607]LogSlate: Window 'Save Asset As' being destroyed
+[2018.12.04-15.33.53:430][125]LogAssetEditorManager: Opening Asset editor for Material /Game/DialogueTextMat/NewMaterial.NewMaterial
+[2018.12.04-15.33.53:458][125]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.12.04-15.33.54:201][125]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.12.04-15.33.54:227][125]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.04-15.33.54:227][125]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.04-15.33.54:227][125]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.04-15.33.54:227][125]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.04-15.33.55:450][198]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.04-15.33.55:509][203]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.04-15.33.55:549][207]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.04-15.33.55:549][207]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.04-15.33.55:618][213]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.04-15.33.55:701][219]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.04-15.33.55:721][221]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.04-15.33.55:738][223]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.04-15.33.55:793][229]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.04-15.33.55:961][246]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.04-15.33.56:055][255]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.04-15.33.56:105][261]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.04-15.33.56:158][267]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.04-15.33.56:259][278]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.04-15.33.56:308][283]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.04-15.33.56:462][298]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.04-15.33.56:495][302]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.04-15.33.57:186][374]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.12.04-15.33.57:186][374]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.12.04-15.33.57:186][374]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.12.04-15.33.57:186][374]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.04-15.34.06:518][446]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.12.04-15.34.06:536][446]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.04-15.34.06:536][446]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.04-15.34.06:536][446]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.04-15.34.06:536][446]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.04-15.34.06:730][464]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.04-15.34.06:739][465]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.04-15.34.06:748][466]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.04-15.34.06:782][470]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.04-15.34.06:887][481]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.04-15.34.06:897][482]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.04-15.34.06:905][483]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.04-15.34.06:914][484]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.04-15.34.07:024][495]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.04-15.34.07:117][504]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.04-15.34.07:226][515]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.04-15.34.07:264][519]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.04-15.34.07:352][527]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.04-15.34.07:428][535]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.04-15.34.07:438][536]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.04-15.34.07:610][552]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.04-15.34.07:654][557]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.04-15.34.07:769][569]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.12.04-15.34.07:780][569]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.04-15.34.07:780][569]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.04-15.34.07:781][569]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.12.04-15.34.07:787][569]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.12.04-15.34.07:859][570]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.04-15.34.07:911][574]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.04-15.34.07:936][576]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.04-15.34.07:959][578]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.04-15.34.08:218][600]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.12.04-15.34.08:218][600]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.12.04-15.34.08:218][600]MaterialEditorStats: Texture samplers: 0/16
+[2018.12.04-15.34.09:767][771]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2018.12.04-15.34.09:783][772]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.04-15.34.09:783][772]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.04-15.34.09:783][772]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.04-15.34.09:783][772]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.04-15.34.54:250][ 19]LogSavePackage: Moving 'E:/Grimsby 4.20/Grimsby 4.20/Saved/ThirdPersonExampleMap_Auto1B1F71C8B4429697536802BB4B0652060.tmp' to 'E:/Grimsby 4.20/Grimsby 4.20/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.12.04-15.34.54:391][ 19]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.570
+[2018.12.04-15.34.54:391][ 19]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.570
+[2018.12.04-15.34.54:394][ 19]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DialogueTextMat/NewMaterial] ([1] browsable assets)...
+[2018.12.04-15.34.54:415][ 19]OBJ SavePackage:     Rendered thumbnail for [Material /Game/DialogueTextMat/NewMaterial.NewMaterial]
+[2018.12.04-15.34.54:415][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/DialogueTextMat/NewMaterial]
+[2018.12.04-15.34.54:415][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueTextMat/NewMaterial" FILE="E:/Grimsby 4.20/Grimsby 4.20/Saved/Autosaves/Game/DialogueTextMat/NewMaterial_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.12.04-15.34.54:441][ 19]LogSavePackage: Moving 'E:/Grimsby 4.20/Grimsby 4.20/Saved/NewMaterial_Auto1846815B44772CA795FE6BFB370A4E4CE.tmp' to 'E:/Grimsby 4.20/Grimsby 4.20/Saved/Autosaves/Game/DialogueTextMat/NewMaterial_Auto1.uasset'
+[2018.12.04-15.34.54:442][ 19]LogFileHelpers: Auto-saving content packages took 0.050
+[2018.12.04-15.35.41:933][501]LogSlate: Window 'Message' being destroyed
+[2018.12.04-15.38.53:761][512]LogMaterial: Display: Missing cached shader map for material SpeechTextMat, compiling. 
+[2018.12.04-15.38.53:847][513]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.04-15.38.53:847][513]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.04-15.38.53:847][513]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.04-15.38.53:847][513]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.04-15.38.55:913][692]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.04-15.39.13:934][805]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2018.12.04-15.39.13:934][805]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.04-15.39.13:934][805]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2018.12.04-15.39.30:787][706]LogMaterial: Display: Missing cached shader map for material SpeechTextMat, compiling. 
+[2018.12.04-15.39.30:806][706]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.04-15.39.30:806][706]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.04-15.39.30:806][706]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.04-15.39.30:806][706]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.04-15.39.32:848][851]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.04-15.39.37:184][156]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.04-15.39.40:432][537]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor12)
+[2018.12.04-15.39.40:825][581]Cmd: DELETE
+[2018.12.04-15.39.40:825][581]Cmd: ACTOR DELETE
+[2018.12.04-15.39.40:859][581]LogEditorActor: Deleted Actor: TextRenderActor
+[2018.12.04-15.39.40:885][581]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2018.12.04-15.39.42:904][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-15.40.16:222][777]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.04-15.40.43:305][317]LogSlate: Window 'ThirdPersonCharacter_Human*' being destroyed
+[2018.12.04-15.40.43:310][317]LogSlate: Window 'ThirdPersonCharacter_Human*' being destroyed
+[2018.12.04-15.40.44:425][403]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.12.04-15.40.51:994][883]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2018.12.04-15.40.51:997][883]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2018.12.04-15.41.00:839][745]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/NPCs/Tracy/Tracy_Char.Tracy_Char
+[2018.12.04-15.41.07:262][328]LogSlate: Window 'Tracy_Char*' being destroyed
+[2018.12.04-15.41.07:265][328]LogSlate: Window 'Tracy_Char*' being destroyed
+[2018.12.04-15.41.12:686][772]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/NPCs/Woman/Woman_Char.Woman_Char
+[2018.12.04-15.41.19:650][390]LogSlate: Window 'Woman_Char*' being destroyed
+[2018.12.04-15.41.19:654][390]LogSlate: Window 'Woman_Char*' being destroyed
+[2018.12.04-15.41.23:296][717]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/NPCs/MiddleAgedMan/Man_Char.Man_Char
+[2018.12.04-15.41.29:400][195]LogSlate: Window 'Man_Char*' being destroyed
+[2018.12.04-15.41.29:403][195]LogSlate: Window 'Man_Char*' being destroyed
+[2018.12.04-15.41.40:694][110]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.04-15.41.47:967][839]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-15.41.47:980][839]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.41.47:980][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-15.41.47:981][839]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2018, 5:41:47 AM)
+[2018.12.04-15.41.47:981][839]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.04-15.41.48:056][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076388s)
+[2018.12.04-15.41.48:057][839]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.04-15.41.48:057][839]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2018.12.04-15.41.48:057][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.077256s)
+[2018.12.04-15.41.48:103][839]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-15.41.48:113][839]LogInit: FAudioDevice initialized.
+[2018.12.04-15.41.48:327][839]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.04-15.41.48:357][839]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.04-10.41.48
+[2018.12.04-15.41.48:361][839]LogWorld: Bringing up level for play took: 0.032507
+[2018.12.04-15.41.48:374][839]Cmd: sg.ResolutionQuality 75
+[2018.12.04-15.41.48:374][839]sg.ResolutionQuality = "75"
+[2018.12.04-15.41.48:375][839]Cmd: stat fps
+[2018.12.04-15.41.48:376][839]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.406
+[2018.12.04-15.41.48:377][839]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.41.54:264][514]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.41.54:264][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-15.41.54:306][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-15.41.54:307][514]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.41.54:333][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-15.41.54:368][516]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.12.04-15.41.56:981][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-15.41.58:157][969]LogAssetEditorManager: Opening Asset editor for Material /Game/DialogueTextMat/SpeechTextMat.SpeechTextMat
+[2018.12.04-15.41.58:159][969]LogMaterial: Display: Missing cached shader map for material SpeechTextMat, compiling. 
+[2018.12.04-15.41.58:218][969]LogMaterial: Display: Missing cached shader map for material SpeechTextMat, compiling. 
+[2018.12.04-15.41.58:237][969]LogMaterial: Display: Missing cached shader map for material SpeechTextMat, compiling. 
+[2018.12.04-15.41.58:268][969]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.04-15.41.58:268][969]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.04-15.41.58:268][969]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.04-15.41.58:268][969]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.04-15.41.58:290][969]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.12.04-15.41.58:804][  7]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.04-15.41.58:817][  8]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.04-15.41.58:858][ 12]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.04-15.41.58:912][ 17]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.04-15.41.58:962][ 21]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.04-15.41.59:029][ 27]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.04-15.41.59:076][ 31]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.04-15.41.59:168][ 40]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.04-15.41.59:177][ 41]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.04-15.41.59:210][ 44]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.04-15.41.59:267][ 50]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.04-15.41.59:382][ 60]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.04-15.41.59:393][ 61]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.04-15.41.59:415][ 63]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.04-15.41.59:462][ 68]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.04-15.41.59:574][ 78]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.04-15.41.59:585][ 79]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.04-15.41.59:595][ 80]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.04-15.41.59:749][ 94]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.04-15.41.59:800][ 99]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.04-15.41.59:800][ 99]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.04-15.41.59:951][112]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.04-15.41.59:960][113]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.04-15.41.59:982][115]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.04-15.42.00:078][125]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.04-15.42.00:133][130]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.04-15.42.00:142][131]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.04-15.42.00:169][134]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.04-15.42.00:271][144]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.04-15.42.00:433][157]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.04-15.42.00:540][167]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.04-15.42.00:581][171]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.04-15.42.00:664][179]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.04-15.42.00:784][190]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.04-15.42.00:840][195]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.04-15.42.01:052][213]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.04-15.42.01:076][215]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.04-15.42.01:143][222]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.04-15.42.01:222][230]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.04-15.42.01:323][238]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.04-15.42.01:454][246]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.04-15.42.01:513][250]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.04-15.42.02:173][251]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.12.04-15.42.02:173][251]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.12.04-15.42.02:173][251]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.04-15.42.02:173][251]MaterialEditorStats: Texture samplers: 4/16
+[2018.12.04-15.42.02:173][251]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.04-15.42.02:173][251]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.04-15.42.23:364][ 19]LogMaterial: Display: Missing cached shader map for material SpeechTextMat, compiling. 
+[2018.12.04-15.42.23:379][ 19]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.04-15.42.23:379][ 19]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.04-15.42.23:379][ 19]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.04-15.42.23:379][ 19]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.04-15.42.23:381][ 19]LogMaterial: Display: Missing cached shader map for material SpeechTextMat, compiling. 
+[2018.12.04-15.42.23:883][ 73]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.04-15.42.23:921][ 77]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.04-15.42.23:951][ 80]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.04-15.42.24:047][ 90]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.04-15.42.24:058][ 91]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.04-15.42.24:097][ 95]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.04-15.42.24:123][ 98]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.04-15.42.24:218][107]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.04-15.42.24:272][112]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.04-15.42.24:281][113]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.04-15.42.24:359][121]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.04-15.42.24:456][130]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.04-15.42.24:464][131]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.04-15.42.24:464][131]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.04-15.42.24:543][140]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.04-15.42.24:652][150]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.04-15.42.24:652][150]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.04-15.42.24:682][153]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.04-15.42.24:726][158]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.04-15.42.24:847][170]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.04-15.42.24:858][171]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.04-15.42.24:858][171]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.04-15.42.25:002][184]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.04-15.42.25:046][188]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.04-15.42.25:066][190]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.04-15.42.25:184][201]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.04-15.42.25:195][202]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.04-15.42.25:216][204]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.04-15.42.25:254][208]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.04-15.42.25:357][218]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.04-15.42.25:382][221]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.04-15.42.25:392][222]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.04-15.42.25:420][225]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.04-15.42.25:641][245]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.04-15.42.25:802][260]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.04-15.42.25:824][262]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.04-15.42.25:834][263]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.04-15.42.26:037][282]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.04-15.42.26:051][283]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.04-15.42.26:247][301]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.04-15.42.26:268][303]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.04-15.42.26:289][305]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.04-15.42.26:421][318]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.04-15.42.26:523][327]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.04-15.42.26:810][355]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.12.04-15.42.26:810][355]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.12.04-15.42.26:810][355]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.04-15.42.26:810][355]MaterialEditorStats: Texture samplers: 4/16
+[2018.12.04-15.42.26:810][355]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.04-15.42.26:810][355]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.04-15.42.31:963][969]LogMaterial: Display: Missing cached shader map for material SpeechTextMat, compiling. 
+[2018.12.04-15.42.31:990][970]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.04-15.42.31:990][970]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.04-15.42.31:990][970]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.04-15.42.31:990][970]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.04-15.42.32:149][985]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.04-15.42.32:171][987]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.04-15.42.32:208][991]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.04-15.42.32:240][994]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.04-15.42.32:289][998]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.04-15.42.32:342][  3]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.04-15.42.32:399][  8]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.04-15.42.32:465][ 14]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.04-15.42.32:476][ 15]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.04-15.42.32:517][ 19]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.04-15.42.32:564][ 24]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.04-15.42.32:637][ 31]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.04-15.42.32:655][ 33]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.04-15.42.32:687][ 36]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.04-15.42.32:732][ 41]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.04-15.42.32:819][ 49]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.04-15.42.32:831][ 50]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.04-15.42.32:871][ 54]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.04-15.42.32:970][ 63]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.04-15.42.33:003][ 66]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.04-15.42.33:043][ 70]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.04-15.42.33:151][ 80]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.04-15.42.33:161][ 81]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.04-15.42.33:199][ 83]LogMaterial: Display: Missing cached shader map for material SpeechTextMat, compiling. 
+[2018.12.04-15.42.33:215][ 83]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.04-15.42.33:215][ 83]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.04-15.42.33:216][ 83]LogMaterial: Display: Missing cached shader map for material SpeechTextMat, compiling. 
+[2018.12.04-15.42.33:240][ 83]LogMaterial: Display: Missing cached shader map for material SpeechTextMat, compiling. 
+[2018.12.04-15.42.33:298][ 84]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.04-15.42.33:312][ 85]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.04-15.42.33:358][ 89]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.04-15.42.33:398][ 93]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.04-15.42.33:441][ 97]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.04-15.42.33:496][102]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.04-15.42.33:509][103]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.04-15.42.33:568][108]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.04-15.42.33:590][110]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.04-15.42.33:655][116]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.04-15.42.33:668][117]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.04-15.42.33:726][122]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.04-15.42.33:737][123]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.04-15.42.33:809][130]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.04-15.42.33:994][146]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.04-15.42.34:195][167]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2018.12.04-15.42.34:195][167]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2018.12.04-15.42.34:195][167]MaterialEditorStats: Texture samplers: 2/16
+[2018.12.04-15.42.34:195][167]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.04-15.42.34:195][167]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.04-15.42.35:750][351]LogMaterialEditor: Saving and Compiling material SpeechTextMat
+[2018.12.04-15.42.36:202][351]LogMaterial: Display: Missing cached shader map for material SpeechTextMat, compiling. 
+[2018.12.04-15.42.36:221][351]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.04-15.42.36:221][351]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.04-15.42.36:221][351]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.04-15.42.36:221][351]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.04-15.42.36:232][351]LogMaterial: Display: Missing cached shader map for material SpeechTextMat, compiling. 
+[2018.12.04-15.42.36:254][351]LogMaterial: Display: Missing cached shader map for material SpeechTextMat, compiling. 
+[2018.12.04-15.42.36:337][351]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy SpeechTextMat, compiling. 
+[2018.12.04-15.42.36:946][351]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.04-15.42.36:947][351]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.04-15.42.36:947][351]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.04-15.42.36:947][351]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.04-15.42.36:947][351]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.04-15.42.36:947][351]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.04-15.42.36:947][351]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.04-15.42.36:947][351]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.04-15.42.36:947][351]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.04-15.42.36:947][351]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.04-15.42.36:947][351]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.04-15.42.36:947][351]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.04-15.42.36:947][351]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.04-15.42.36:947][351]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.04-15.42.36:947][351]TextureStreamingBuild: Display: Compiling optional shaders took 0.638 seconds.
+[2018.12.04-15.42.38:004][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueTextMat/SpeechTextMat" FILE="E:/Grimsby 4.20/Grimsby 4.20/Content/DialogueTextMat/SpeechTextMat.uasset" SILENT=true
+[2018.12.04-15.42.38:018][351]LogSavePackage: Moving 'E:/Grimsby 4.20/Grimsby 4.20/Saved/SpeechTextMat24795DD748CB3453065EE7BF02630036.tmp' to 'E:/Grimsby 4.20/Grimsby 4.20/Content/DialogueTextMat/SpeechTextMat.uasset'
+[2018.12.04-15.42.38:713][410]LogSlate: Window 'SpeechTextMat' being destroyed
+[2018.12.04-15.42.38:716][410]LogSlate: Window 'SpeechTextMat' being destroyed
+[2018.12.04-15.42.39:436][488]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-15.42.39:447][488]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.42.39:447][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-15.42.39:447][488]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2018, 5:42:39 AM)
+[2018.12.04-15.42.39:447][488]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.04-15.42.39:518][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070222s)
+[2018.12.04-15.42.39:518][488]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.04-15.42.39:518][488]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2018.12.04-15.42.39:519][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.071067s)
+[2018.12.04-15.42.39:560][488]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-15.42.39:568][488]LogInit: FAudioDevice initialized.
+[2018.12.04-15.42.39:599][488]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.04-15.42.39:627][488]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.04-10.42.39
+[2018.12.04-15.42.39:631][488]LogWorld: Bringing up level for play took: 0.030864
+[2018.12.04-15.42.39:644][488]Cmd: sg.ResolutionQuality 75
+[2018.12.04-15.42.39:644][488]sg.ResolutionQuality = "75"
+[2018.12.04-15.42.39:644][488]Cmd: stat fps
+[2018.12.04-15.42.39:646][488]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.325
+[2018.12.04-15.42.39:646][488]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.43.02:998][236]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.43.02:998][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-15.43.03:040][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-15.43.03:040][236]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.43.03:072][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-15.43.03:108][237]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.12.04-15.43.05:247][483]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-15.43.17:688][881]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2018.12.04-15.44.04:161][670]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/NPCs/Woman/Woman_Char.Woman_Char
+[2018.12.04-15.44.21:455][485]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/NPCs/Woman/Woman_Char.Woman_Char
+[2018.12.04-15.44.27:100][ 59]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.12.04-15.44.37:520][260]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/NPCs/Woman/Woman_Char.Woman_Char
+[2018.12.04-15.45.17:227][632]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2018.12.04-15.45.36:364][581]LogSlate: Window 'ThirdPersonExampleMap* - Level Blueprint Editor' being destroyed
+[2018.12.04-15.45.36:367][581]LogSlate: Window 'ThirdPersonExampleMap* - Level Blueprint Editor' being destroyed
+[2018.12.04-15.45.40:096][912]LogSlate: Window 'Tutorials' being destroyed
+[2018.12.04-15.45.52:004][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-15.45.52:071][339]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-15.45.52:081][339]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.45.52:082][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-15.45.52:082][339]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2018, 5:45:52 AM)
+[2018.12.04-15.45.52:082][339]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.04-15.45.52:155][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073855s)
+[2018.12.04-15.45.52:155][339]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.04-15.45.52:155][339]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2018.12.04-15.45.52:156][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.074684s)
+[2018.12.04-15.45.52:200][339]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-15.45.52:209][339]LogInit: FAudioDevice initialized.
+[2018.12.04-15.45.52:241][339]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.04-15.45.52:269][339]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.04-10.45.52
+[2018.12.04-15.45.52:273][339]LogWorld: Bringing up level for play took: 0.030719
+[2018.12.04-15.45.52:286][339]Cmd: sg.ResolutionQuality 75
+[2018.12.04-15.45.52:286][339]sg.ResolutionQuality = "75"
+[2018.12.04-15.45.52:287][339]Cmd: stat fps
+[2018.12.04-15.45.52:288][339]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.318
+[2018.12.04-15.45.52:289][339]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.46.33:241][223]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_2
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:0036
+[2018.12.04-15.46.33:241][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Health
+[2018.12.04-15.46.33:241][223]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_2
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:0065
+[2018.12.04-15.46.33:241][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Health
+[2018.12.04-15.46.33:241][223]LogScript: Warning: Attempted to assign to None
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_2
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:007A
+[2018.12.04-15.46.33:241][223]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Health
+[2018.12.04-15.46.33:242][223]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_2
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:00A9
+[2018.12.04-15.46.33:242][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Humanity
+[2018.12.04-15.46.33:242][223]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_2
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:00D8
+[2018.12.04-15.46.33:242][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Humanity
+[2018.12.04-15.46.33:242][223]LogScript: Warning: Attempted to assign to None
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_2
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:00ED
+[2018.12.04-15.46.33:242][223]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Humanity
+[2018.12.04-15.47.36:315][734]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.47.36:315][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-15.47.36:364][734]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-15.47.36:365][734]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.47.36:393][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-15.47.36:428][735]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2018.12.04-15.47.48:727][195]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-15.52.39:695][102]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-15.52.39:707][102]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.52.39:707][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-15.52.39:707][102]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2018, 5:52:39 AM)
+[2018.12.04-15.52.39:707][102]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.04-15.52.39:779][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071316s)
+[2018.12.04-15.52.39:780][102]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.04-15.52.39:780][102]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2018.12.04-15.52.39:780][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.072305s)
+[2018.12.04-15.52.39:822][102]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-15.52.39:831][102]LogInit: FAudioDevice initialized.
+[2018.12.04-15.52.39:861][102]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.04-15.52.39:889][102]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.04-10.52.39
+[2018.12.04-15.52.39:893][102]LogWorld: Bringing up level for play took: 0.030656
+[2018.12.04-15.52.39:907][102]Cmd: sg.ResolutionQuality 75
+[2018.12.04-15.52.39:907][102]sg.ResolutionQuality = "75"
+[2018.12.04-15.52.39:907][102]Cmd: stat fps
+[2018.12.04-15.52.39:909][102]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.062
+[2018.12.04-15.52.39:910][102]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.52.47:872][ 52]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Grimsby_Widget.Grimsby_Widget
+[2018.12.04-15.53.06:635][466]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.53.06:636][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-15.53.06:676][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-15.53.06:676][466]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.53.06:705][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-15.53.06:736][468]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2018.12.04-15.53.07:436][552]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-15.53.07:450][552]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.53.07:450][552]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-15.53.07:450][552]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2018, 5:53:07 AM)
+[2018.12.04-15.53.07:450][552]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.04-15.53.07:519][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068680s)
+[2018.12.04-15.53.07:520][552]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.04-15.53.07:520][552]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2018.12.04-15.53.07:520][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.069398s)
+[2018.12.04-15.53.07:562][552]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-15.53.07:570][552]LogInit: FAudioDevice initialized.
+[2018.12.04-15.53.07:602][552]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.04-15.53.07:633][552]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.04-10.53.07
+[2018.12.04-15.53.07:637][552]LogWorld: Bringing up level for play took: 0.034784
+[2018.12.04-15.53.07:650][552]Cmd: sg.ResolutionQuality 75
+[2018.12.04-15.53.07:651][552]sg.ResolutionQuality = "75"
+[2018.12.04-15.53.07:651][552]Cmd: stat fps
+[2018.12.04-15.53.07:653][552]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.318
+[2018.12.04-15.53.07:653][552]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.53.09:092][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-15.53.18:878][887]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.53.18:878][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-15.53.18:916][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-15.53.18:916][887]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.53.18:944][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-15.53.18:992][889]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2018.12.04-15.53.19:817][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-15.53.22:911][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grimsby_Widget" FILE="E:/Grimsby 4.20/Grimsby 4.20/Content/Blueprints/Grimsby_Widget.uasset" SILENT=true
+[2018.12.04-15.53.22:977][272]LogSavePackage: Moving 'E:/Grimsby 4.20/Grimsby 4.20/Saved/Grimsby_WidgetB8CF426F4DA8866F37088DBAF6975F15.tmp' to 'E:/Grimsby 4.20/Grimsby 4.20/Content/Blueprints/Grimsby_Widget.uasset'
+[2018.12.04-15.53.23:830][350]BlueprintLog: New page: Compile Grimsby_Widget
+[2018.12.04-15.53.28:663][814]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-15.53.28:677][814]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.53.28:677][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-15.53.28:677][814]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2018, 5:53:28 AM)
+[2018.12.04-15.53.28:677][814]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.04-15.53.28:747][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069677s)
+[2018.12.04-15.53.28:748][814]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.04-15.53.28:748][814]LogPlayLevel: PIE: World Init took: (0.000533s)
+[2018.12.04-15.53.28:748][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.070451s)
+[2018.12.04-15.53.28:788][814]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-15.53.28:797][814]LogInit: FAudioDevice initialized.
+[2018.12.04-15.53.28:827][814]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.04-15.53.28:855][814]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.04-10.53.28
+[2018.12.04-15.53.28:859][814]LogWorld: Bringing up level for play took: 0.030985
+[2018.12.04-15.53.28:873][814]Cmd: sg.ResolutionQuality 75
+[2018.12.04-15.53.28:873][814]sg.ResolutionQuality = "75"
+[2018.12.04-15.53.28:873][814]Cmd: stat fps
+[2018.12.04-15.53.28:875][814]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.904
+[2018.12.04-15.53.28:875][814]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.53.36:321][704]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.53.36:321][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-15.53.36:357][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-15.53.36:358][704]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-15.53.36:388][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-15.53.36:420][706]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2018.12.04-15.54.19:970][363]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Grimsby_HUD.Grimsby_HUD
+[2018.12.04-15.55.03:877][975]LogSlate: Took 0.017463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.04-15.57.02:102][437]BlueprintLog: New page: Compile Grimsby_Widget
+[2018.12.04-15.57.02:143][437]LogBlueprint: Error: [Compiler Grimsby_Widget] The property associated with  Kills  could not be found in '/Game/Blueprints/Grimsby_Widget.Grimsby_Widget_C'
+[2018.12.04-15.57.02:143][437]LogBlueprint: Error: [Compiler Grimsby_Widget] The property associated with  Transforms  could not be found in '/Game/Blueprints/Grimsby_Widget.Grimsby_Widget_C'
+[2018.12.04-15.57.02:144][437]LogBlueprint: Error: [Compiler Grimsby_Widget] The property associated with  Insults  could not be found in '/Game/Blueprints/Grimsby_Widget.Grimsby_Widget_C'
+[2018.12.04-15.57.02:144][437]LogBlueprint: Error: [Compiler Grimsby_Widget] The property associated with  Greeting  could not be found in '/Game/Blueprints/Grimsby_Widget.Grimsby_Widget_C'
+[2018.12.04-15.57.02:196][437]LogBlueprint: Warning: [Compiler Grimsby_Widget] [2025.05] Compile of Grimsby_Widget failed. 4 Fatal Issue(s) 0 Warning(s) [in 93 ms] (/Game/Blueprints/Grimsby_Widget.Grimsby_Widget)
+[2018.12.04-15.57.09:607][311]BlueprintLog: New page: Compile Grimsby_HUD
+[2018.12.04-15.57.10:814][429]BlueprintLog: New page: Compile Grimsby_Widget
+[2018.12.04-15.57.27:024][352]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.12.04-15.58.21:273][732]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/NPCs/Woman/Woman_Char.Woman_Char
+[2018.12.04-15.59.31:356][189]BlueprintLog: New page: Compile Woman_Char
+[2018.12.04-15.59.49:164][768]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/NPCs/MiddleAgedMan/Man_Char.Man_Char
+[2018.12.04-16.01.15:522][318]BlueprintLog: New page: Compile Man_Char
+[2018.12.04-16.02.54:397][623]BlueprintLog: New page: Compile Woman_Char
+[2018.12.04-16.02.54:462][623]LogBlueprint: Error: [Compiler Woman_Char] This blueprint (self) is not a Grimsby_HUD_C, therefore ' Target ' must have a connection.
+[2018.12.04-16.02.54:462][623]LogBlueprint: Error: [Compiler Woman_Char] This blueprint (self) is not a Grimsby_HUD_C, therefore ' Target ' must have a connection.
+[2018.12.04-16.02.54:462][623]LogBlueprint: Error: [Compiler Woman_Char] Variable node  Set Insults  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.12.04-16.02.54:462][623]LogBlueprint: Error: [Compiler Woman_Char] Variable node  Set Insults  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.12.04-16.02.54:653][623]LogBlueprint: Warning: [Compiler Woman_Char] [2377.51] Compile of Woman_Char failed. 4 Fatal Issue(s) 0 Warning(s) [in 255 ms] (/Game/NPCs/Woman/Woman_Char.Woman_Char)
+[2018.12.04-16.03.04:020][417]BlueprintLog: New page: Compile Woman_Char
+[2018.12.04-16.03.04:085][417]LogBlueprint: Error: [Compiler Woman_Char] This blueprint (self) is not a Grimsby_HUD_C, therefore ' Target ' must have a connection.
+[2018.12.04-16.03.04:085][417]LogBlueprint: Error: [Compiler Woman_Char] This blueprint (self) is not a Grimsby_HUD_C, therefore ' Target ' must have a connection.
+[2018.12.04-16.03.04:085][417]LogBlueprint: Error: [Compiler Woman_Char] Variable node  Set Insults  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.12.04-16.03.04:085][417]LogBlueprint: Error: [Compiler Woman_Char] Variable node  Set Insults  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.12.04-16.03.04:271][417]LogBlueprint: Warning: [Compiler Woman_Char] [2387.13] Compile of Woman_Char failed. 4 Fatal Issue(s) 0 Warning(s) [in 250 ms] (/Game/NPCs/Woman/Woman_Char.Woman_Char)
+[2018.12.04-16.03.12:874][291]BlueprintLog: New page: Compile Woman_Char
+[2018.12.04-16.03.16:402][599]BlueprintLog: New page: Compile Man_Char
+[2018.12.04-16.03.16:466][599]LogBlueprint: Error: [Compiler Man_Char] This blueprint (self) is not a Grimsby_HUD_C, therefore ' Target ' must have a connection.
+[2018.12.04-16.03.16:466][599]LogBlueprint: Error: [Compiler Man_Char] This blueprint (self) is not a Grimsby_HUD_C, therefore ' Target ' must have a connection.
+[2018.12.04-16.03.16:466][599]LogBlueprint: Error: [Compiler Man_Char] Variable node  Set Insults  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.12.04-16.03.16:466][599]LogBlueprint: Error: [Compiler Man_Char] Variable node  Set Insults  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.12.04-16.03.16:648][599]LogBlueprint: Warning: [Compiler Man_Char] [2399.50] Compile of Man_Char failed. 4 Fatal Issue(s) 0 Warning(s) [in 245 ms] (/Game/NPCs/MiddleAgedMan/Man_Char.Man_Char)
+[2018.12.04-16.03.20:164][958]BlueprintLog: New page: Compile Man_Char
+[2018.12.04-16.03.28:114][847]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Human.ThirdPersonCharacter_Human
+[2018.12.04-16.04.04:218][299]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.12.04-16.04.32:616][185]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.12.04-16.04.34:261][319]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-16.04.34:292][319]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-16.04.34:292][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-16.04.34:292][319]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 4, 2018, 6:04:34 AM)
+[2018.12.04-16.04.34:292][319]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.12.04-16.04.34:363][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070389s)
+[2018.12.04-16.04.34:363][319]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.04-16.04.34:363][319]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2018.12.04-16.04.34:363][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.071179s)
+[2018.12.04-16.04.34:412][319]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-16.04.34:422][319]LogInit: FAudioDevice initialized.
+[2018.12.04-16.04.34:450][319]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.04-16.04.34:477][319]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.12.04-11.04.34
+[2018.12.04-16.04.34:481][319]LogWorld: Bringing up level for play took: 0.030348
+[2018.12.04-16.04.34:495][319]Cmd: sg.ResolutionQuality 75
+[2018.12.04-16.04.34:495][319]sg.ResolutionQuality = "75"
+[2018.12.04-16.04.34:495][319]Cmd: stat fps
+[2018.12.04-16.04.34:497][319]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.526
+[2018.12.04-16.04.34:497][319]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-16.04.45:408][622]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_2
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:0036
+[2018.12.04-16.04.45:408][622]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Health
+[2018.12.04-16.04.45:408][622]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_2
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:0065
+[2018.12.04-16.04.45:408][622]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Health
+[2018.12.04-16.04.45:408][622]LogScript: Warning: Attempted to assign to None
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_2
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:007A
+[2018.12.04-16.04.45:408][622]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Health
+[2018.12.04-16.04.45:408][622]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_2
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:00A9
+[2018.12.04-16.04.45:408][622]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Humanity
+[2018.12.04-16.04.45:408][622]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_2
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:00D8
+[2018.12.04-16.04.45:408][622]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Humanity
+[2018.12.04-16.04.45:408][622]LogScript: Warning: Attempted to assign to None
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_2
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:00ED
+[2018.12.04-16.04.45:408][622]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Humanity
+[2018.12.04-16.04.50:402][191]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsWerewolf_Animation_BP3
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:15C9
+[2018.12.04-16.04.50:402][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsWerewolf_Animation_BP3". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Set idlePlayRate
+[2018.12.04-16.04.50:402][191]LogScript: Warning: Attempted to assign to None
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:15DE
+[2018.12.04-16.04.50:402][191]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Set idlePlayRate
+[2018.12.04-16.04.50:411][192]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsWerewolf_Animation_BP3
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:15C9
+[2018.12.04-16.04.50:411][192]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsWerewolf_Animation_BP3". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Set idlePlayRate
+[2018.12.04-16.04.50:411][192]LogScript: Warning: Attempted to assign to None
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:15DE
+[2018.12.04-16.04.50:411][192]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Set idlePlayRate
+[2018.12.04-16.04.50:419][193]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsWerewolf_Animation_BP3
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:15C9
+[2018.12.04-16.04.50:419][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsWerewolf_Animation_BP3". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Set idlePlayRate
+[2018.12.04-16.04.50:419][193]LogScript: Warning: Attempted to assign to None
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:15DE
+[2018.12.04-16.04.50:419][193]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Set idlePlayRate
+[2018.12.04-16.05.11:053][653]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_2
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:0036
+[2018.12.04-16.05.11:054][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Health
+[2018.12.04-16.05.11:054][653]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_2
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:0065
+[2018.12.04-16.05.11:054][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Health
+[2018.12.04-16.05.11:054][653]LogScript: Warning: Attempted to assign to None
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_2
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:007A
+[2018.12.04-16.05.11:054][653]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Health
+[2018.12.04-16.05.11:054][653]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_2
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:00A9
+[2018.12.04-16.05.11:054][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Humanity
+[2018.12.04-16.05.11:054][653]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1
+	ThirdPersonExampleMap_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap_C_2
+	Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap:00D8
+[2018.12.04-16.05.11:054][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_Human1". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Humanity
+[2018.12.04-16.05.11:054][653]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  ThirdPersonExampleMap Function:  Execute Ubergraph Third Person Example Map Graph:  EventGraph Node:  Set Humanity
+[2018.12.04-16.06.28:143][860]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-16.06.28:144][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-16.06.28:193][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-16.06.28:193][860]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.12.04-16.06.28:229][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-16.06.28:261][861]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2018.12.04-16.06.29:972][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-16.06.33:185][445]LogSlate: Window 'Message Log' being destroyed
+[2018.12.04-16.06.33:188][445]LogSlate: Window 'Message Log' being destroyed
+[2018.12.04-16.07.18:469][551]Cmd: SELECT NONE
+[2018.12.04-16.07.53:474][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-16.08.02:233][980]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/NPCs/Tracy/Tracy_Char.Tracy_Char
+[2018.12.04-16.08.59:250][ 28]LogUObjectArray: Warning: Empty slot
+[2018.12.04-16.09.01:043][ 28]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.793 s
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: 
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: Stack: 
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd54d971f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd54ad0c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd54aeb356 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd50ce11db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd50cf060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd5361da7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd48c3ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd48bff337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd53d68204 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd53fae933 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd53dc281a UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd53d98190 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd53d8b073 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd6b57d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd6b570270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd6b57f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd6b56c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd8a5f6d41 USER32.dll!UnknownFunction []
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd8a5f6713 USER32.dll!UnknownFunction []
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd6b580646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.04-16.09.01:043][ 28]LogOutputDevice: Error: [Callstack] 0x00007ff7d19554e5 UE4Editor.exe!UnknownFunction []
+[2018.12.04-16.09.01:044][ 28]LogOutputDevice: Error: [Callstack] 0x00007ff7d1965b3c UE4Editor.exe!UnknownFunction []
+[2018.12.04-16.09.01:044][ 28]LogOutputDevice: Error: [Callstack] 0x00007ff7d1965bba UE4Editor.exe!UnknownFunction []
+[2018.12.04-16.09.01:044][ 28]LogOutputDevice: Error: [Callstack] 0x00007ff7d1973dac UE4Editor.exe!UnknownFunction []
+[2018.12.04-16.09.01:044][ 28]LogOutputDevice: Error: [Callstack] 0x00007ff7d1975aaa UE4Editor.exe!UnknownFunction []
+[2018.12.04-16.09.01:044][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd88833034 KERNEL32.DLL!UnknownFunction []
+[2018.12.04-16.09.01:044][ 28]LogOutputDevice: Error: [Callstack] 0x00007ffd8b031471 ntdll.dll!UnknownFunction []
+[2018.12.04-16.09.01:044][ 28]LogOutputDevice: Error: 
+[2018.12.04-16.09.01:055][ 28]LogStats:                SubmitErrorReport -  0.000 s

@@ -1,0 +1,926 @@
+﻿Log file open, 12/01/18 22:59:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Grimsby
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1984326725) SRandInit(-1984326725).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.260891
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.286s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-6PFO0DK (192.168.0.16:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.02-03.59.04:342][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.02-03.59.04:342][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.02-03.59.04:378][  0]LogInit: Computer: DESKTOP-6PFO0DK
+[2018.12.02-03.59.04:378][  0]LogInit: User: cgsin
+[2018.12.02-03.59.04:378][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.02-03.59.04:378][  0]LogInit: High frequency timer resolution =3.515626 MHz
+[2018.12.02-03.59.04:378][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2018.12.02-03.59.04:378][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.02-03.59.04:378][  0]LogMemory: Process Physical Memory: 275.10 MB used, 275.10 MB peak
+[2018.12.02-03.59.04:378][  0]LogMemory: Process Virtual Memory: 264.61 MB used, 264.61 MB peak
+[2018.12.02-03.59.04:378][  0]LogMemory: Physical Memory: 2725.94 MB used,  9502.30 MB free, 12228.25 MB total
+[2018.12.02-03.59.04:378][  0]LogMemory: Virtual Memory: 4790.53 MB used,  9502.30 MB free, 134217728.00 MB total
+[2018.12.02-03.59.04:506][  0]LogInit: Using OS detected language (en-US).
+[2018.12.02-03.59.04:506][  0]LogInit: Using OS detected locale (en-CA).
+[2018.12.02-03.59.04:622][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.02-03.59.05:199][  0]LogStreaming: Display: Took  0.694s to EndInitTextLocalization.
+[2018.12.02-03.59.05:200][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.02-03.59.05:404][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.02-03.59.05:404][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.02-03.59.10:302][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.02-03.59.10:358][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.12.02-03.59.10:358][  0]LogD3D11RHI:       8079/0/6114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.02-03.59.10:359][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.02-03.59.10:359][  0]LogD3D11RHI:       0/0/6114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.02-03.59.10:359][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.02-03.59.10:364][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.02-03.59.10:364][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.02-03.59.10:364][  0]LogWindows: EnumDisplayDevices:
+[2018.12.02-03.59.10:364][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.12.02-03.59.10:364][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.12.02-03.59.10:364][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.12.02-03.59.10:364][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.12.02-03.59.10:364][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.12.02-03.59.10:364][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.12.02-03.59.10:364][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.12.02-03.59.10:364][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.12.02-03.59.10:364][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.12.02-03.59.10:398][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.12.02-03.59.10:398][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.12.02-03.59.10:398][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.02-03.59.10:441][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.02-03.59.10:489][  0]LogShaderCompilers: Guid format shader working directory is 25 characters bigger than the processId version (E:/New folder/Grimsby/Intermediate/Shaders/WorkingDirectory/5680/).
+[2018.12.02-03.59.10:489][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cgsin/AppData/Local/Temp/UnrealShaderWorkingDir/E86A5542440447867A00658AE8F211F8/'.
+[2018.12.02-03.59.10:890][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.02-03.59.10:900][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.02-03.59.10:911][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.02-03.59.10:921][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.02-03.59.10:944][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.02-03.59.10:954][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.02-03.59.10:965][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.02-03.59.10:975][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.02-03.59.10:980][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.02-03.59.10:989][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.12.02-03.59.10:998][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.12.02-03.59.11:007][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.12.02-03.59.11:016][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.12.02-03.59.11:024][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.12.02-03.59.11:033][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.12.02-03.59.11:051][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.12.02-03.59.11:051][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.12.02-03.59.11:071][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.02-03.59.11:072][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.02-03.59.11:127][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.02-03.59.11:136][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.02-03.59.11:145][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.02-03.59.11:153][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.02-03.59.11:162][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.02-03.59.11:182][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.02-03.59.11:182][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.02-03.59.11:470][  0]LogXGEController: Cleaning working directory: C:/Users/cgsin/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.02-03.59.11:470][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.02-03.59.11:470][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.02-03.59.11:470][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.02-03.59.14:515][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.02-03.59.14:970][  0]LogDerivedDataCache: Loaded boot cache 0.45s 74MB C:/Users/cgsin/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.12.02-03.59.14:970][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/cgsin/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.12.02-03.59.14:970][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/New folder/Grimsby/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.02-03.59.14:970][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.02-03.59.14:970][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/New folder/Grimsby/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.02-03.59.14:970][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.02-03.59.15:059][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.02-03.59.15:072][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cgsin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.02-03.59.15:072][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.02-03.59.15:072][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.02-03.59.15:080][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.02-03.59.15:080][  0]LogSlate: Using Freetype 2.6.0
+[2018.12.02-03.59.15:114][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.02-03.59.15:115][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.02-03.59.17:156][  0]LogAssetRegistry: FAssetRegistry took 0.0243 seconds to start up
+[2018.12.02-03.59.17:402][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.02-03.59.17:834][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.02-03.59.17:837][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.02-03.59.17:837][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.02-03.59.17:837][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.02-03.59.17:837][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.12.02-03.59.17:837][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.12.02-03.59.17:874][  0]LogNetVersion: Grimsby , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2566240455)
+[2018.12.02-03.59.19:032][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.061577 seconds
+[2018.12.02-03.59.19:037][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.12.02-03.59.19:037][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.12.02-03.59.19:037][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.02-03.59.37:171][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.02-03.59.37:200][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.02-03.59.37:680][  0]SourceControl: Source control is disabled
+[2018.12.02-03.59.37:680][  0]SourceControl: Source control is disabled
+[2018.12.02-03.59.37:697][  0]SourceControl: Source control is disabled
+[2018.12.02-03.59.37:712][  0]SourceControl: Source control is disabled
+[2018.12.02-03.59.38:385][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.02-03.59.38:551][  0]LogOcInput: OculusInput pre-init called
+[2018.12.02-03.59.38:721][  0]LogEngine: Initializing Engine...
+[2018.12.02-03.59.38:722][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.02-03.59.38:722][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.02-03.59.38:722][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.02-03.59.39:318][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.02-03.59.39:338][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.02-03.59.39:358][  0]LogInit: FAudioDevice initialized.
+[2018.12.02-03.59.39:462][  0]LogDerivedDataCache: Saved boot cache 0.10s 74MB C:/Users/cgsin/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.12.02-03.59.39:480][  0]LogInit: Texture streaming: Enabled
+[2018.12.02-03.59.39:521][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.02-03.59.39:545][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.02-03.59.39:585][  0]LogInit: Transaction tracking system initialized
+[2018.12.02-03.59.39:606][  0]BlueprintLog: New page: Editor Load
+[2018.12.02-03.59.39:903][  0]LocalizationService: Localization service is disabled
+[2018.12.02-03.59.40:208][  0]LogConsoleResponse: Display: 
+[2018.12.02-03.59.42:109][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.02-03.59.42:109][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.02-03.59.42:109][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.02-03.59.42:109][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.02-03.59.42:109][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.02-03.59.42:855][  0]LogFileCache: Scanning file cache for directory 'E:/New folder/Grimsby/Content/' took 0.02s
+[2018.12.02-03.59.43:192][  0]SourceControl: Source control is disabled
+[2018.12.02-03.59.43:192][  0]Cmd: MAP LOAD FILE="E:/New folder/Grimsby/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.02-03.59.43:192][  0]LightingResults: New page: Lighting Build
+[2018.12.02-03.59.43:195][  0]MapCheck: New page: Map Check
+[2018.12.02-03.59.43:195][  0]LightingResults: New page: Lighting Build
+[2018.12.02-03.59.43:313][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18ac2ac50, Size=52, Default__Protagonist_AnimationBP_C Function /Game/Protagonist/Animations/Protagonist_AnimationBP.Protagonist_AnimationBP_C:ExecuteUbergraph_Protagonist_AnimationBP
+[2018.12.02-03.59.43:327][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d18ac2ac50, Size=52
+[2018.12.02-03.59.43:327][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18ac2ac50, Size=52, Default__Protagonist_AnimationBP_C Function /Engine/Transient.REINST_Protagonist_AnimationBP_C_0:ExecuteUbergraph_Protagonist_AnimationBP
+[2018.12.02-03.59.43:338][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18b3b5670, Size=52, Default__Protagonist_AnimationBP_C Function /Game/Protagonist/Animations/Protagonist_AnimationBP.Protagonist_AnimationBP_C:ExecuteUbergraph_Protagonist_AnimationBP
+[2018.12.02-03.59.43:339][  0]LogBlueprint: Warning: [Compiler Protagonist_AnimationBP] Node  Result  uses potentially thread-unsafe call  Get Time Seconds . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.12.02-03.59.43:339][  0]LogBlueprint: Warning: [Compiler Protagonist_AnimationBP] [0045.03] Compile of Protagonist_AnimationBP successful, but with 1 Warning(s) [in 16 ms] (/Game/Protagonist/Animations/Protagonist_AnimationBP.Protagonist_AnimationBP)
+[2018.12.02-03.59.43:406][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18b32f760, Size=92, Default__Werewolf_AnimationBP_C Function /Game/Werewolf/Animations/Werewolf_AnimationBP.Werewolf_AnimationBP_C:ExecuteUbergraph_Werewolf_AnimationBP
+[2018.12.02-03.59.43:422][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d18b32f760, Size=92
+[2018.12.02-03.59.43:422][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18b32f760, Size=92, Default__Werewolf_AnimationBP_C Function /Engine/Transient.REINST_Werewolf_AnimationBP_C_1:ExecuteUbergraph_Werewolf_AnimationBP
+[2018.12.02-03.59.43:441][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18aff1600, Size=92, Default__Werewolf_AnimationBP_C Function /Game/Werewolf/Animations/Werewolf_AnimationBP.Werewolf_AnimationBP_C:ExecuteUbergraph_Werewolf_AnimationBP
+[2018.12.02-03.59.43:442][  0]LogBlueprint: Warning: [Compiler Werewolf_AnimationBP] Node  Result  uses potentially thread-unsafe call  Get Time Seconds . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.12.02-03.59.43:442][  0]LogBlueprint: Warning: [Compiler Werewolf_AnimationBP] [0045.13] Compile of Werewolf_AnimationBP successful, but with 1 Warning(s) [in 24 ms] (/Game/Werewolf/Animations/Werewolf_AnimationBP.Werewolf_AnimationBP)
+[2018.12.02-03.59.43:529][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18af52b00, Size=1088, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.12.02-03.59.43:532][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18b118100, Size=848, Default__ThirdPersonCharacter_Human_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Human.ThirdPersonCharacter_Human_C:ExecuteUbergraph_ThirdPersonCharacter_Human
+[2018.12.02-03.59.43:653][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d18af52b00, Size=1088
+[2018.12.02-03.59.43:654][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18bb7d600, Size=1088, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_5:ExecuteUbergraph_ThirdPersonCharacter
+[2018.12.02-03.59.43:655][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d18b118100, Size=848
+[2018.12.02-03.59.43:655][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18af35980, Size=848, Default__ThirdPersonCharacter_Human_C Function /Engine/Transient.REINST_ThirdPersonCharacter_Human_C_6:ExecuteUbergraph_ThirdPersonCharacter_Human
+[2018.12.02-03.59.43:676][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18c0e2b00, Size=1088, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.12.02-03.59.43:681][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18c003900, Size=848, Default__ThirdPersonCharacter_Human_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Human.ThirdPersonCharacter_Human_C:ExecuteUbergraph_ThirdPersonCharacter_Human
+[2018.12.02-03.59.43:724][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18bc0f400, Size=656, Default__Man_Char_C Function /Game/NPCs/MiddleAgedMan/Man_Char.Man_Char_C:ExecuteUbergraph_Man_Char
+[2018.12.02-03.59.43:734][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d18bc0f400, Size=656
+[2018.12.02-03.59.43:734][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18bfe7a00, Size=656, Default__Man_Char_C Function /Engine/Transient.REINST_Man_Char_C_9:ExecuteUbergraph_Man_Char
+[2018.12.02-03.59.43:742][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18bfe6500, Size=656, Default__Man_Char_C Function /Game/NPCs/MiddleAgedMan/Man_Char.Man_Char_C:ExecuteUbergraph_Man_Char
+[2018.12.02-03.59.43:826][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18bcb1800, Size=576, Default__Tracy_Char_C Function /Game/NPCs/Tracy/Tracy_Char.Tracy_Char_C:ExecuteUbergraph_Tracy_Char
+[2018.12.02-03.59.43:835][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d18bcb1800, Size=576
+[2018.12.02-03.59.43:835][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18b0a9d00, Size=576, Default__Tracy_Char_C Function /Engine/Transient.REINST_Tracy_Char_C_11:ExecuteUbergraph_Tracy_Char
+[2018.12.02-03.59.43:842][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18ecca700, Size=576, Default__Tracy_Char_C Function /Game/NPCs/Tracy/Tracy_Char.Tracy_Char_C:ExecuteUbergraph_Tracy_Char
+[2018.12.02-03.59.44:017][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18ecc9800, Size=640, Default__Woman_Char_C Function /Game/NPCs/Woman/Woman_Char.Woman_Char_C:ExecuteUbergraph_Woman_Char
+[2018.12.02-03.59.44:027][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d18ecc9800, Size=640
+[2018.12.02-03.59.44:027][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18ecc9800, Size=640, Default__Woman_Char_C Function /Engine/Transient.REINST_Woman_Char_C_13:ExecuteUbergraph_Woman_Char
+[2018.12.02-03.59.44:035][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18c83e480, Size=640, Default__Woman_Char_C Function /Game/NPCs/Woman/Woman_Char.Woman_Char_C:ExecuteUbergraph_Woman_Char
+[2018.12.02-03.59.46:644][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18c00fa60, Size=48, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.12.02-03.59.46:647][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d18c00fa60, Size=48
+[2018.12.02-03.59.46:647][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18c00fa60, Size=48, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_59:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.12.02-03.59.46:648][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d18c00f520, Size=48, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.12.02-03.59.59:574][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [89.043030ms] /Game/Werewolf/Werewolf.Werewolf
+[2018.12.02-04.00.00:412][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [35.240379ms] /Game/NPCs/Tracy/Tracy.Tracy
+[2018.12.02-04.00.00:772][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [118.089920ms] /Game/NPCs/MiddleAgedMan/Man.Man
+[2018.12.02-04.00.01:206][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [39.781536ms] /Game/NPCs/Woman/Woman.Woman
+[2018.12.02-04.00.02:015][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [3.719679ms] /Game/WorldObjects/MidSizedSedan/Samand400.Samand400
+[2018.12.02-04.00.05:235][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [30.946978ms] /Game/WorldObjects/Dumpster_Mesh.Dumpster_Mesh
+[2018.12.02-04.00.05:363][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [21.710217ms] /Game/Protagonist/Protagonist.Protagonist
+[2018.12.02-04.00.05:384][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.12.02-04.00.08:479][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.02-04.00.08:498][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d18ac2ac50, Size=52
+[2018.12.02-04.00.08:498][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d18b32f760, Size=92
+[2018.12.02-04.00.08:498][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d18bb7d600, Size=1088
+[2018.12.02-04.00.08:498][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d18af35980, Size=848
+[2018.12.02-04.00.08:499][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d18bfe7a00, Size=656
+[2018.12.02-04.00.08:499][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d18b0a9d00, Size=576
+[2018.12.02-04.00.08:499][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d18ecc9800, Size=640
+[2018.12.02-04.00.08:499][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d18c00fa60, Size=48
+[2018.12.02-04.00.08:502][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.02-04.00.08:576][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.33ms to complete.
+[2018.12.02-04.00.08:576][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 25.384
+[2018.12.02-04.00.08:743][  0]LogCollectionManager: Loaded 0 collections in 0.001780 seconds
+[2018.12.02-04.00.08:782][  0]LogFileCache: Scanning file cache for directory 'E:/New folder/Grimsby/Saved/Collections/' took 0.01s
+[2018.12.02-04.00.08:782][  0]LogFileCache: Scanning file cache for directory 'E:/New folder/Grimsby/Content/Developers/cgsin/Collections/' took 0.01s
+[2018.12.02-04.00.08:782][  0]LogFileCache: Scanning file cache for directory 'E:/New folder/Grimsby/Content/Collections/' took 0.01s
+[2018.12.02-04.00.08:782][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.02-04.00.08:789][  0]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 2452 classes and 558 folders.
+[2018.12.02-04.00.08:795][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.02-04.00.09:840][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.02-04.00.09:844][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.12.02-04.00.09:932][  0]LogSlate: Took 0.067457 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.02-04.00.09:945][  0]LogSlate: Took 0.012114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.02-04.00.09:968][  0]LogSlate: Took 0.019730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.02-04.00.10:257][  0]LogRenderer: Reallocating scene render targets to support 1208x664 Format 10 NumSamples 1 (Frame:1).
+[2018.12.02-04.00.10:433][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.02-04.00.10:433][  0]LogLoad: (Engine Initialization) Total time: 72.12 seconds
+[2018.12.02-04.00.10:433][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.02-04.00.10:463][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.02-04.00.10:552][  0]LogSlate: Took 0.037569 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.02-04.00.10:595][  1]LogAssetRegistry: Asset discovery search completed in 53.4604 seconds
+[2018.12.02-04.00.10:597][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.02-04.00.10:597][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2018.12.02-04.00.11:462][ 67]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.02-04.00.13:708][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.02-04.00.14:645][337]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.12.02-04.00.14:884][337]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d22e2ef2e0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.12.02-04.00.14:884][337]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d22e2ef2d8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.12.02-04.00.15:655][337]LogSlate: Took 0.012097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.02-04.00.15:978][338]LogSlate: Took 0.015103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.02-04.07.54:383][576]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.02-04.08.15:445][605]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.12.02-04.08.26:176][605]LogSlate: Window 'Create Blank Blueprint Class' being destroyed
+[2018.12.02-04.10.47:195][ 16]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.02-04.11.50:377][ 32]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_143' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:378][ 32]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_145' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:381][ 32]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_147' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:397][ 33]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_149' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:399][ 33]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_151' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:411][ 34]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_153' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:413][ 34]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_155' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:425][ 35]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_157' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:428][ 35]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_159' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:440][ 36]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_161' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:442][ 36]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_163' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:453][ 37]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_165' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:456][ 37]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_167' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:468][ 38]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_169' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:471][ 38]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_171' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:482][ 39]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_173' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:485][ 39]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_175' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:496][ 40]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_177' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:498][ 40]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_179' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:509][ 41]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_181' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:512][ 41]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_183' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:524][ 42]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_185' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:525][ 42]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_187' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:527][ 42]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_189' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:538][ 43]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_191' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:541][ 43]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_193' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:552][ 44]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_195' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:555][ 44]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_197' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:566][ 45]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_199' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:569][ 45]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_201' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:582][ 46]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_203' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:593][ 47]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_205' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:595][ 47]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_207' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:608][ 48]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_209' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:621][ 49]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_211' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:632][ 50]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_213' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:635][ 50]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_215' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:646][ 51]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_217' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:649][ 51]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_219' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:662][ 52]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_221' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:673][ 53]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_223' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:676][ 53]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_225' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:687][ 54]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_227' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:690][ 54]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_229' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:702][ 55]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_231' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:705][ 55]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_233' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:715][ 56]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_235' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:718][ 56]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_237' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:729][ 57]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_239' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:732][ 57]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_241' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:743][ 58]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_243' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:746][ 58]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_245' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:758][ 59]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_247' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:761][ 59]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_249' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:772][ 60]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_251' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:775][ 60]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_253' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:787][ 61]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_255' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:789][ 61]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_257' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:801][ 62]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_259' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:804][ 62]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_261' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:815][ 63]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_263' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:818][ 63]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_265' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:830][ 64]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_267' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:843][ 65]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_269' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:856][ 66]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_271' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:869][ 67]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_273' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:882][ 68]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_275' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:894][ 69]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_277' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:907][ 70]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_279' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:920][ 71]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_281' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:933][ 72]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_283' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:945][ 73]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_285' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:958][ 74]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_287' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:971][ 75]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_289' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:984][ 76]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_291' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.50:996][ 77]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_293' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:009][ 78]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_295' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:022][ 79]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_297' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:035][ 80]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_299' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:048][ 81]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_301' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:061][ 82]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_303' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:074][ 83]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_305' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:085][ 84]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_307' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:088][ 84]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_309' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:099][ 85]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_311' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:102][ 85]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_313' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:114][ 86]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_315' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:127][ 87]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_317' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:139][ 88]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_319' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:151][ 89]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_321' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:154][ 89]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_323' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:167][ 90]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_325' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:179][ 91]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_327' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:192][ 92]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_329' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:205][ 93]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_331' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:218][ 94]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_333' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:231][ 95]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_335' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:243][ 96]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_337' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:256][ 97]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_339' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:269][ 98]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_341' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:282][ 99]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_343' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:293][100]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_345' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:305][101]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_347' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:307][101]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_349' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:319][102]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_351' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:322][102]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_353' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:334][103]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_355' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:348][104]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_357' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:360][105]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_359' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:373][106]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_361' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:386][107]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_363' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:398][108]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_365' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:411][109]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_367' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:424][110]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_369' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:437][111]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_371' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:450][112]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_373' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:463][113]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_375' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:475][114]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_377' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:488][115]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_379' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:501][116]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_381' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:514][117]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_383' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:527][118]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_385' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:540][119]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_387' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:553][120]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_389' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:565][121]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_391' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:578][122]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_393' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:591][123]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_395' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:603][124]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_397' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:616][125]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_399' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:629][126]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_401' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:642][127]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_403' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:655][128]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_405' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:667][129]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_407' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:680][130]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_409' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:693][131]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_411' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:705][132]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_413' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:718][133]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_415' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:729][134]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_417' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:732][134]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_419' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:745][135]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_421' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:758][136]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_423' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:771][137]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_425' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:784][138]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_427' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:796][139]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_429' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:809][140]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_431' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:822][141]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_433' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:835][142]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_435' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:848][143]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_437' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:861][144]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_439' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:873][145]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_441' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:886][146]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_443' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:899][147]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_445' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:912][148]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_447' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:925][149]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_449' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:938][150]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_451' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:950][151]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_453' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:963][152]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_455' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:976][153]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_457' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.51:989][154]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_459' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:002][155]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_461' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:015][156]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_463' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:027][157]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_465' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:040][158]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_467' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:053][159]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_469' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:067][160]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_471' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:079][161]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_473' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:092][162]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_475' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:105][163]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_477' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:118][164]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_479' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:131][165]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_481' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:144][166]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_483' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:157][167]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_485' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:169][168]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_487' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:181][169]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_489' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:194][170]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_491' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:207][171]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_493' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:220][172]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_495' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:233][173]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_497' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:245][174]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_499' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:258][175]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_501' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:271][176]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_503' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:284][177]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_505' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:297][178]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_507' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:310][179]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_509' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:323][180]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_511' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:336][181]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_513' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:348][182]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_515' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:361][183]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_517' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:374][184]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_519' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:387][185]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_521' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:400][186]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_523' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:413][187]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_525' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:426][188]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_527' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:439][189]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_529' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:452][190]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_531' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:465][191]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_533' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:478][192]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_535' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:491][193]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_537' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:504][194]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_539' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:517][195]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_541' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:529][196]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_543' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:541][197]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_545' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:554][198]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_547' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:567][199]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_549' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:579][200]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_551' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:592][201]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_553' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:605][202]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_555' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:618][203]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_557' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:631][204]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_559' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:644][205]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_561' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:657][206]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_563' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:670][207]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_565' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:682][208]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_567' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:696][209]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_569' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:709][210]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_571' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:722][211]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_573' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:735][212]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_575' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:748][213]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_577' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:761][214]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_579' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:775][215]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_581' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:788][216]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_583' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:801][217]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_585' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:813][218]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_587' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:826][219]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_589' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:839][220]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_591' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:852][221]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_593' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:865][222]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_595' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:878][223]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_597' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:890][224]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_599' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:903][225]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_601' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:916][226]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_603' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:929][227]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_605' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.11.52:942][228]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_607' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.12.02-04.17.21:099][ 34]LogSlate: Window 'Save Asset As' being destroyed
+[2018.12.02-04.17.23:204][ 84]LogSlate: Window 'Save Asset As' being destroyed
+[2018.12.02-04.17.35:499][139]LogSlate: Window 'Save Asset As' being destroyed
+[2018.12.02-04.18.01:543][383]LogSlate: Window 'Save Asset As' being destroyed
+[2018.12.02-04.19.00:329][200]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\New folder\Grimsby\Images\heart_icon.png)
+[2018.12.02-04.19.00:353][200]LogTexture: Display: Building textures: heart_icon (AutoDXT, 512X512)
+[2018.12.02-04.19.17:729][148]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.12.02-04.19.21:010][524]LogSlate: Window 'heart_icon*' being destroyed
+[2018.12.02-04.19.21:013][524]LogSlate: Window 'heart_icon*' being destroyed
+[2018.12.02-04.19.21:073][524]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.02-04.19.21:156][524]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.02-04.19.21:241][524]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.02-04.19.26:474][121]LogSlate: Window 'heart_icon*' being destroyed
+[2018.12.02-04.19.26:477][121]LogSlate: Window 'heart_icon*' being destroyed
+[2018.12.02-04.19.39:831][ 98]LogSlate: Window 'Save Asset As' being destroyed
+[2018.12.02-04.19.55:743][ 98]LogSlate: Window 'Message' being destroyed
+[2018.12.02-04.20.01:679][540]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.12.02-04.20.11:541][540]LogShaderCompilers: Display: Shaders left to compile 228
+[2018.12.02-04.20.11:541][540]LogShaderCompilers: Display: Shaders left to compile 227
+[2018.12.02-04.20.11:541][540]LogShaderCompilers: Display: Shaders left to compile 226
+[2018.12.02-04.20.11:541][540]LogShaderCompilers: Display: Shaders left to compile 225
+[2018.12.02-04.20.11:541][540]LogShaderCompilers: Display: Shaders left to compile 224
+[2018.12.02-04.20.11:541][540]LogShaderCompilers: Display: Shaders left to compile 223
+[2018.12.02-04.20.11:541][540]LogShaderCompilers: Display: Shaders left to compile 222
+[2018.12.02-04.20.11:541][540]LogShaderCompilers: Display: Shaders left to compile 221
+[2018.12.02-04.20.11:541][540]LogShaderCompilers: Display: Shaders left to compile 220
+[2018.12.02-04.20.11:541][540]LogShaderCompilers: Display: Shaders left to compile 219
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 218
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 217
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 216
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 215
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 214
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 213
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 212
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 211
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 210
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 209
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 208
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 207
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 206
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 205
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 204
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 203
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 202
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 201
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 200
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 199
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 198
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 197
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 196
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 195
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 194
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 193
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 192
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 191
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 190
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 189
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 188
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 187
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 186
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 185
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 184
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 183
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 182
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 181
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 180
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 179
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 178
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 177
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 176
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 175
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 174
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 173
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 172
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 171
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 170
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 169
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 168
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 167
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 166
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 165
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 164
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 163
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 162
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 161
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 160
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 159
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 158
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 157
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 156
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 155
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 154
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 153
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 152
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 151
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 150
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 149
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 148
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 147
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 146
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 145
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 144
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 143
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 142
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 141
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 140
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 139
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 138
+[2018.12.02-04.20.11:542][540]LogShaderCompilers: Display: Shaders left to compile 137
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 136
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 135
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 134
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 133
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 132
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 131
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 130
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 129
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 128
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 127
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 126
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 125
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 124
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 123
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 122
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 121
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 119
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 117
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 115
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 114
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 113
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 111
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 109
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 104
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 103
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 101
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 99
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 94
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 91
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 84
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.12.02-04.20.11:543][540]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.02-04.20.11:544][540]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.02-04.20.11:642][540]LogWindows: Windows GetLastError: The operation completed successfully. (0)
